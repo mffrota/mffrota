@@ -1,8 +1,6 @@
-- 👋 Olá, sou a Maria Fernandes
-- 👀 Hoje trabalho com UX/UI Design e desenvolvo sites em Wordpress utilizando Contrutores de Sites
-- 🌱 Atualmente estou estudando Front End e Typescript
-- 💞️ Adoro música, ilustração e praia
-- 📫 Contact-me no email: mffrota@gmail.com 
+# Hey 👋🏻
+My name is Maria Fernandes. I'm from Brazil 🇧🇷. I'm UX/UI Design, starting studies in Front-End.
+
 
 <div align="center">
   <a href="https://github.com/mffrota">
